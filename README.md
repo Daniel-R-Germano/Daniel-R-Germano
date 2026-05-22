@@ -8,9 +8,12 @@
 
 ## 🚀 Tecnologias
 
-- Python
-- C
-- Sistemas Embarcados
-- Machine Learning
-- SQL
-- Linux
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-0A66C2?style=for-the-badge)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
